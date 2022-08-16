@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696103471254",
+    "project_id": "gifted-airway-346608",
+    "storage_bucket": "gifted-airway-346608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696103471254:android:84c1f1dced262b7b261ab7",
+        "android_client_info": {
+          "package_name": "com.uni.kelani.myfourthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696103471254-frtgtt0h9q0n438fckndss6sctbdqpv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEfVBLbDY3T-7bGoBdMpWqHSevKx_d1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696103471254-frtgtt0h9q0n438fckndss6sctbdqpv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
